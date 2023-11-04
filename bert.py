@@ -3,11 +3,7 @@ import yfinance as yf
 from keys import NEWS_API_KEY
 from newsapi import NewsApiClient
 
-
 import json
-
-
-
 
 # get stock data from yahoo finance
 def get_stock_pricing_data(ticker, start, end):
