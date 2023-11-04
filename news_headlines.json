@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Ian King, Mark Gurman, Vlad Savov",
+            "title": "Apple (AAPL) CEO Tim Cook Seeks to Ease Fears of Weak iPhone Demand in China - Bloomberg",
+            "description": "Apple Inc.\u2019s disappointing holiday-quarter outlook has cast a spotlight on its mounting problems in China, where the iPhone maker is struggling with the unexpected rise of Huawei Technologies Co. and an increasingly hostile business environment.",
+            "url": "https://www.bloomberg.com/news/articles/2023-11-03/apple-ceo-seeks-to-ease-fears-that-iphone-is-in-trouble-in-china",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixUVGLQZ9yQM/v0/1200x825.jpg",
+            "publishedAt": "2023-11-03T00:50:51Z",
+            "content": "Apple Inc.s disappointing holiday-quarter outlook has cast a spotlight on its mounting problems in China, where the iPhone maker is struggling with the unexpected rise of Huawei Technologies Co. and \u2026 [+510 chars]"
+        }
+    ]
+}
